@@ -49,3 +49,4 @@ Phase 2 begins with layout routes, component primitives, and page structure from
 - [Next.js Docs](https://nextjs.org/docs)
 - [Vercel + Next.js Deployment](https://nextjs.org/docs/app/building-your-application/deploying)
 
+
